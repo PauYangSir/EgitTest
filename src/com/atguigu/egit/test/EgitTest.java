@@ -7,5 +7,6 @@ public class EgitTest {
 		System.out.println("ccc");
 		System.out.println("88888");
 		System.out.println("666666");
+		System.out.println("99999999");
 	}
 }
